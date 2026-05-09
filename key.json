@@ -13,7 +13,7 @@
     ],
     "title": "AUTH",
     "updateMsg": "New DPMods version available! Please update.",
-    "updateRequired": false,
+    "updateRequired": true,
     "updateUrl": "https://t.me/dpmodsdialog"
   },
   "BannedHWIDs": {
